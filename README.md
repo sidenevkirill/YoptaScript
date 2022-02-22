@@ -2,4 +2,4 @@
 
 Познай силу YoptaScript.
 
-![alt tag](https://raw.githubusercontent.com/sidenevkirill/YoptaScript/main/src/screenyoptya.png)
+![alt tag](https://raw.githubusercontent.com/sidenevkirill/YoptaScript/main/src/pikayoptya.png)
